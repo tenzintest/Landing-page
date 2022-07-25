@@ -1,10 +1,10 @@
 {
     "Header": {
-        "title": "KidsLand - Language learning Platform",
-        "paragraph": "Happy land with beautiful kids .. "
+        "title": "nTwaste",
+        "paragraph": "Food are not meant for wasting"
     },
     "About": {
-        "paragraph": "Tseyang, i am co founder of KidsLand app. The app is launch in this summer",
+        "paragraph": "Shenphen, I am the co-founder of the nTwaste app. The app is launching in its beta version this summer",
         "Why": [
             "Preserve our culture",
             "Language",
@@ -156,7 +156,7 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
+            "icon": "fas fa-hamburger",
             "title": "Learning",
             "text": "Self mode learning and sharing"
         },
