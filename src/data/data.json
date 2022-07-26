@@ -6,9 +6,9 @@
     "About": {
         "paragraph": "Shenphen, I am the co-founder of the nTwaste app. The app is launching in its beta version this summer",
         "Why": [
-            "Preserve our culture",
-            "Language",
-            "Joy and peaceful",
+            "Pick up Food spot ",
+            "Cheap food",
+            "Enviroment friendly",
             "share"
         ],
         "Why2": [
@@ -65,35 +65,21 @@
         }
     ],
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Language -(Age 5 - 8)",
-            "text": "You can learn as colors, animals names, plants, countries"
+            "icon": "fa fa-cutlery",
+            "name": "Food delivery",
+            "text": "Food delivery and Spot time"
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-map-marker",
+            "name": "Location base app",
+            "text": "Location base app and pick up base location"
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-credit-card",
+            "name": "Price is cheap -",
+            "text": "Price cheap and lovely"
         }
+
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
@@ -127,26 +113,10 @@
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "Tseyang",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
-        }
-    ],
+        "img": "img/team/01.jpg",
+        "name": "Shenphen",
+        "job": "Co-founder"
+    }],
     "Contact": {
         "address": "4321 California St, San Francisco, CA 12345 ",
         "phone": "+1 123 456 1234",
@@ -156,14 +126,14 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fas fa-hamburger",
-            "title": "Learning",
-            "text": "Self mode learning and sharing"
+            "icon": "fa fa-cutlery",
+            "title": "Food delivery",
+            "text": "Pick up the food and enjoy"
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Audio",
-            "text": "Audio file is available."
+            "title": "Advertisment",
+            "text": "Spread announcement."
         },
         {
             "icon": "fa fa-group",
@@ -171,9 +141,9 @@
             "text": "Chat with friends"
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Playground",
-            "text": "learning with joy"
+            "icon": "fa fa-map-marker",
+            "title": "Location",
+            "text": "Location base - delivery or Pick up"
         }
     ]
 }
